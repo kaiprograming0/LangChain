@@ -1,1 +1,3 @@
 # LangChain
+
+LangChainを使ったアプリです。
